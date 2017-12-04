@@ -16,7 +16,7 @@ static const Bool foreground    = True;
  * then the current position is changed + newposition. If npisrelative
  * is False, then newposition is an absolute position.
  */
-static int  newposition   = 0;
+static int  newposition   = -1;
 static Bool npisrelative  = False;
 
 #define SETPROP(p) { \
