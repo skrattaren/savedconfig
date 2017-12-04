@@ -2,10 +2,10 @@
 
 /* appearance */
 static const char font[]        = "-*-*-medium-*-*-*-14-*-*-*-*-*-*-*";
-static const char* normbgcolor  = "#222222";
-static const char* normfgcolor  = "#cccccc";
-static const char* selbgcolor   = "#555555";
-static const char* selfgcolor   = "#ffffff";
+static const char* normbgcolor  = "#555555";
+static const char* normfgcolor  = "#000000";
+static const char* selbgcolor   = "#333333";
+static const char* selfgcolor   = "#228822";
 static const char before[]      = "<";
 static const char after[]       = ">";
 static const int  tabwidth      = 200;
